@@ -18,9 +18,5 @@ An intelligent AI agent that scrapes web content, aligns with your brand voice, 
 
 
 
-https://github.com/user-attachments/assets/ScrapperDemo
-
-
-
-https://github.com/user-attachments/assets/FullDemo
+https://github.com/user-attachments/assets/c32b6400-5cb1-4ed3-a6d8-57330a8203a6
 
