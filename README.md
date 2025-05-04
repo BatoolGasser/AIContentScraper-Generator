@@ -19,14 +19,15 @@ An intelligent AI agent that scrapes web content, aligns with your brand voice, 
 ```bash
 AIContentScraper-Generator/
 │
-├── assets/                # Folder for storing media files (e.g., videos, images)
-├── scraper.py             # Main script to scrape web content
-├── generate_content.py    # Script to generate content for different platforms
-├── app/                   # Contains Streamlit or Flask app for the approval workflow
-├── models/                # Folder for AI models and configurations
-├── requirements.txt       # List of Python dependencies
 ├── .env                   # Configuration file for environment variables
 ├── README.md              # Project documentation
+├── requirements.txt       # List of Python dependencies
+├── config.py               # contains all the configurations
+├── scraper.py              # Main script to scrape web content
+├── nodes.py                # contains all the functions of each node in the graph
+├── create_graph.py         # Main function to generate the whole graph
+├── generate_content.py     # Script to generate content for different platforms
+├── main.py                   # main function to run the whole app
 ```
 
 
