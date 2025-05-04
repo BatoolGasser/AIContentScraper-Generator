@@ -12,6 +12,6 @@ An intelligent AI agent that scrapes web content, aligns with your brand voice, 
    - Platform-Optimized Content: Tailored for each platform's unique requirements  (Blog posts, Marketing emails, LinkedIn, Facebook, Instagram)
    - AI-Powered Suggestions: Recommends hashtags, keywords, and engagement strategies
   
-5. Human-in-the-Loop Workflow
+4. Human-in-the-Loop Workflow
    - Approval Dashboard: Clear interface for reviewing and approving content
    - Feedback Incorporation: AI learns from human edits to improve future content
