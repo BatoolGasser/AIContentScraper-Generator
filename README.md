@@ -1,41 +1,17 @@
 # AIContentScraper-Generator
 An intelligent AI agent that scrapes web content, aligns with your brand voice, and generates multi-platform content with human approval workflows.
 
-## 📚 Project Structure
+## 🌟 Key Features
+1. Intelligent Web Scraping
+  - Adaptive Scraping: Automatically detects content structure and extracts relevant information
 
-ContentScrapeAI/
-├── README.md # Project documentation
-├── requirements.txt # Dependencies
-├── .env.example # Environment variable templates
-├── .gitignore # Git ignore file
-├── setup.py # Package installation
-├── app/
-│ ├── init.py
-│ ├── main.py # Streamlit entry point
-│ ├── config.py # Configuration settings
-│ ├── models/
-│ │ ├── init.py
-│ │ ├── state.py # State definitions
-│ │ └── schema.py # Data schemas
-│ ├── services/
-│ │ ├── init.py
-│ │ ├── scraper.py # Web scraping logic
-│ │ ├── analyzer.py # Content analysis
-│ │ ├── generator.py # Content generation
-│ │ └── workflow.py # Graph definitions
-│ ├── utils/
-│ │ ├── init.py
-│ │ ├── text_processing.py # Text cleaning and processing
-│ │ ├── validation.py # Input validation
-│ │ └── metrics.py # Performance tracking
-│ └── ui/
-│ ├── init.py
-│ ├── components.py # UI components
-│ └── styles.py # Custom CSS
-├── tests/
-│ ├── init.py
-│ ├── test_scraper.py
-│ ├── test_analyzer.py
-│ └── test_generator.py
-└── notebooks/ # Development notebooks
-└── content_analysis.ipynb
+2. Advanced Brand Voice Analysis
+   - Use the scraped data to align with our brand voice and audience.
+
+3.Multi-Platform Content Generation
+  - Platform-Optimized Content: Tailored for each platform's unique requirements  (Blog posts, Marketing emails, LinkedIn, Facebook, Instagram)
+  - AI-Powered Suggestions: Recommends hashtags, keywords, and engagement strategies
+  
+4. Human-in-the-Loop Workflow
+  - Approval Dashboard: Clear interface for reviewing and approving content
+  - Feedback Incorporation: AI learns from human edits to improve future content
