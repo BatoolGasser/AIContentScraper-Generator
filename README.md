@@ -16,6 +16,7 @@ An intelligent AI agent that scrapes web content, aligns with your brand voice, 
    - Approval Dashboard: Clear interface for reviewing and approving content
    - Feedback Incorporation: AI learns from human edits to improve future content
 
+## 🌟 Project Structure
 ```bash
 AIContentScraper-Generator/
 │
