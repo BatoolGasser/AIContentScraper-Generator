@@ -15,3 +15,11 @@ An intelligent AI agent that scrapes web content, aligns with your brand voice, 
 4. Human-in-the-Loop Workflow
    - Approval Dashboard: Clear interface for reviewing and approving content
    - Feedback Incorporation: AI learns from human edits to improve future content
+   - 
+AIContentScraper-Generator/
+│
+├── app.py                  # Main Streamlit app
+├── nodes/                  # LangGraph nodes (agents, logic units)
+├── config.py               # Configuration and secrets
+├── requirements.txt
+└── README.md
