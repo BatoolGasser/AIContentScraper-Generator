@@ -15,6 +15,9 @@ An intelligent AI agent that scrapes web content, aligns with your brand voice, 
 4. Human-in-the-Loop Workflow
    - Approval Dashboard: Clear interface for reviewing and approving content
    - Feedback Incorporation: AI learns from human edits to improve future content
+     
+## 🌟 Workflow
+![workflow](https://github.com/user-attachments/assets/2c81b647-2193-49b6-96ac-0cdc4570f19a)
 
 ## 🌟 Project Structure
 ```bash
